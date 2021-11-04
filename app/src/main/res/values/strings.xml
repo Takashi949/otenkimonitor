@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">otenkimonitor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Graph</string>
+    <string name="title_notifications">Command</string>
+    <string name="load">Loading...</string>
+</resources>
